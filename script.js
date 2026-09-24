@@ -1,3 +1,3 @@
-let numberguess = math.random() * 100;
+let numberguess = Math.random() * 100;
 
 alert(numberguess);
